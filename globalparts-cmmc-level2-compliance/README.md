@@ -1,4 +1,5 @@
-<p align="center"><img src="assets/banner.jpg" alt="CMMC Level 2 Compliance & Supply Chain Security — GlobalParts Manufacturing" width="100%"></p>
+<img width="1600" height="520" alt="banner" src="https://github.com/user-attachments/assets/5fd9437f-a66c-4399-a97f-c1aadfca0e0e" />
+
 
 # GlobalParts Manufacturing — CMMC Level 2 Compliance & Supply Chain Security
 
@@ -96,10 +97,6 @@ CMMC Level 2 scoping · NIST SP 800-171 control implementation · CUI handling a
 
 ## Disclaimer
 GlobalParts Manufacturing and all suppliers are fictional. This repository contains no real CUI. Regulatory references are summarised for portfolio purposes and are not legal advice.
-
----
-
-**Author:** Augustine Ozor — AI Governance & Cybersecurity GRC · [GitHub](https://github.com/AugustineOzor) · [LinkedIn](https://linkedin.com/in/augustinetettehozor)
 
 ---
 
