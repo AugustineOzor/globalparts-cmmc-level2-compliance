@@ -1,9 +1,3 @@
-<p align="center"><img src="assets/banner.jpg" alt="CMMC Level 2 Compliance & Supply Chain Security — GlobalParts Manufacturing" width="100%"></p>
-
-[Overview](README.md) · [Asset Inventory](Asset-Inventory.md) · [CUI Data Flows](CUI-Data-Flows.md) · [CMMC Controls](CMMC-Controls.md) · **Supply Chain** · [Evidence](Evidence-Register.md) · [SSP & C3PAO Readiness](SSP-and-C3PAO-Readiness.md)
-
----
-
 # Supply Chain & Vendor Assessment
 **GlobalParts Manufacturing** · Document ID: GP-CMMC-VND-001 · Version 1.0 · Classification: Internal (portfolio sample — contains no real CUI)
 
