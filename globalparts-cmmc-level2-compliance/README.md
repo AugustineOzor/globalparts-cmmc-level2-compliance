@@ -82,8 +82,6 @@ flowchart LR
 ```
 globalparts-cmmc-level2-compliance/
 ├── README.md
-├── assets/
-│   └── banner.jpg
 ├── Asset-Inventory.md
 ├── CUI-Data-Flows.md
 ├── CMMC-Controls.md
